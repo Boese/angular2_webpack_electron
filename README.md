@@ -1,0 +1,2 @@
+# angular2_webpack_electron
+quickstart
