@@ -1,0 +1,14 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "main": "main.js",
+    "productName": "ProductName",
+    "author": "Chris Boese",
+    "description": "",
+    "devDependencies": {
+        
+    },
+    "dependencies": {
+        "glob": "^7.1.0"
+    }
+}
